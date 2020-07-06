@@ -25,5 +25,5 @@
 	```
 		pip install opencv-python
     
-    		conda install -c conda-forge opencv
+    	conda install -c conda-forge opencv
 	```
