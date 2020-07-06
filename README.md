@@ -2,7 +2,7 @@
 
 [//]: # (Image Reference)
 
-[img]: ./assets/1.png "SLAM"
+[img]: ./DATA/opencv-1.png "SLAM"
 
 ![SLAM][img]
 
