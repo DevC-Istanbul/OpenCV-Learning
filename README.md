@@ -16,7 +16,8 @@
 1. Clone the repository and navigate to the downloaded folder.
 
 	```
-		git clone https://github.com/Lynchez/OpenCV-Learning
+		git clone https://github.com/DevC-Istanbul/OpenCV-Learning
+		
 		cd OpenCV-Learning
 	```
 	
