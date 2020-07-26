@@ -28,6 +28,7 @@
     
     	conda install -c conda-forge opencv
 	```
+
 ## Social 
 
 ### Facebook Devc Group
