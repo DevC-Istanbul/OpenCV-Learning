@@ -1,4 +1,4 @@
-# Learning OpenCV from Strach
+# Learning OpenCV 
 
 [//]: # (Image Reference)
 
